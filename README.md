@@ -1,2 +1,2 @@
-# melody
-учебный проект Glo Academy
+# melody - Учебный проект Glo Academy
+## Проект выполнил: Ивлев Данила
